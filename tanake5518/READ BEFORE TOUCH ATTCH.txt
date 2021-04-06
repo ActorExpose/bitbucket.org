@@ -1,0 +1,3 @@
+RedLineStealer, ArkeiStealer sample
+
+PAYLOAD SHA256: 1b7bc78836c832c48b86f5c5406741018af99062461b8f4f2f9e55c8fcc076fc
